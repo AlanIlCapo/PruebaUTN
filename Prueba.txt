@@ -3,3 +3,9 @@ alan -Estamos probando sin romper.
 alan - Vamos a ver si funciona subir un segundo commit.
 
 alan - Le meto modificacion desde github a ver que pasa
+
+Probando agregar datos al texto - primero clone y despues lo abri desde vs.
+
+marina - segundo intento - creo que no rompi nada pero no logro ver el status desde git.
+
+marina - tercer y último intento de subir commit, al segundo no lo vi.
